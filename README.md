@@ -16,6 +16,7 @@
 - Study site of Coal Creek watershed, CO
 - Watershed-scale biogeochemical reactive transport model: [BioRT‐Flux‐PIHM](https://github.com/PSUmodeling/BioRT-Flux-PIHM)
 - Concentration‐discharge slope b as a function of concentration ratio
+- A conceptual model about mechanisms leading to different C‐Q patterns
 
 ### Coal Creek watershed
 Coal Creek is a headwater high‐elevation (2700 - 3700 m) catchment in the central Rocky Mountains of Colorado, USA. It is a third‐order stream in Gunnison County and drains an area of approximately 53 km2 about 200‐km southwest of Denver. The mean annual temperature is around 0.9 °C. The watershed is seasonally snow‐covered from approximately
@@ -41,4 +42,11 @@ Pennsylvania and Plynlimon in Wales, UK. In general, we see that data points fol
 
 <p align="center">
   <img src="/figures/figure11.jpg" alt="C-Q pattern as a function of concentration contrast" width="600">
+</p>
+
+### A conceptual model about mechanisms leading to different C‐Q patterns
+A diagram illustrates the interplay between subsurface biogeochemical heterogeneity of the solute sources and temporal variability of predominant flow in shaping the C‐Q patterns. Specifically, the hillslope view shows the predominance of groundwater under dry conditions and soil water under wet (snowmelt) conditions in stream water. Solutes that are enriched in shallow soil (red triangle in top left) result in high Cratio that lead to a flushing pattern; solutes that are abundant in deeper groundwater (blue triangle in top left) are diluted by shallow soil water under high flow conditions. Generally, biogenic species are abundant in shallow soils as they reflect the signature of life. Sources of geogenic solutes, mostly unweathered or less weathered rock, are often ample at depth.
+
+<p align="center">
+  <img src="/figures/figure12.jpg" alt="A schematic diagram about mechanisms leading to different C-Q patterns" width="600">
 </p>
