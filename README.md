@@ -26,8 +26,7 @@ evergreen forest (65%) and herbaceous vegetation (20%), followed by deciduous fo
   <img src="/figures/figure1.jpg" alt="Study site: Coal Creek Watershed" width="600">
 </p>
 
-
-BioRT-Flux-PIHM: A Watershed Biogeochemical Reactive Transport Model
+### BioRT-Flux-PIHM: A Watershed Biogeochemical Reactive Transport Model
 The model couples three modules: a multicomponent reactive transport module BioRT, the land‐surface interaction module Flux for processes such as solar radiation and
 evapotranspiration (ET), and the surface hydrology module PIHM for hydrological processes (e.g., precipitation, infiltration, recharge, surface runoff, and subsurface flow). The BioRT module takes in the computed water fluxes and storage from Flux‐PIHM and simulates processes including advection, diffusion, dispersion, and biogeochemical reactions and outputs aqueous and solid concentrations. The reactions can be kinetics‐controlled (mineral dissolution and precipitation and microbe‐mediated reactions) and thermodynamically
 controlled (e.g., ion exchange, surface complexation or sorption, and aqueous complexation). Flux‐ PIHM solves for water‐related variables including water storage, flow, soil moisture, and water table depth. For subsurface flow, the model distinguishes between active interflow in shallow soil zones and groundwater flow that is relatively shallow and is connected to the stream but is deeper than soil
@@ -35,6 +34,10 @@ controlled (e.g., ion exchange, surface complexation or sorption, and aqueous co
 <p align="center">
   <img src="/figures/figure2.jpg" alt="Watershed model: BioRT-Flux-PIHM" width="600">
 </p>
+
+### C‐Q slopes as a function of subsurface concentration contrast
+Flushing patterns (b > 0.1) cluster toward the upper left with high soil water concentrations (Csw) relative to groundwater concentrations (Cgw). In contrast, dilution (b < −0.1) occurs toward the bottom right with high Cgw relative to Csw. Chemostasis shows up close to the 1:1 line, as long as the soil and groundwater concentrations are similar with a concentration ratio (Cratio = Csw/Cgw) between 0.6 and 1.8. The figure also shows C‐Q slope b and Cratio values compiled from two other catchments: Shale Hills in
+Pennsylvania and Plynlimon in Wales, UK. In general, we see that data points follow the curve defined by the equation, although the range of b values may vary for different catchments and solutes.
 
 <p align="center">
   <img src="/figures/figure11.jpg" alt="C-Q pattern as a function of concentration contrast" width="600">
