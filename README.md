@@ -11,4 +11,7 @@
 - A general equation regulates the power law slopes (b) of C‐Q patterns. The equation quantitatively interprets b values of 11 solutes (dissolved organic carbon, dissolved P, NO3−, K, Si, Ca, Mg, Na, Al, Mn, and Fe) from three catchments ([Coal Creek](https://www.coalcreek.org/), [Shale Hills](https://czo-archive.criticalzone.org/shale-hills/), and [Plynlimon](https://www.ceh.ac.uk/our-science/monitoring-site/plynlimon-critical-zone-observatory)) of differing climate, geologic, and land cover conditions. 
 
 
+<br/>
+
+**Figures**:
 <img src="/figures/figure1.jpg" alt="Study site: Coal Creek Watershed" width="700">
