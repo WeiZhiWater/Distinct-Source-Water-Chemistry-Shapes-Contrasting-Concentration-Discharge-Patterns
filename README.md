@@ -1,4 +1,4 @@
-# Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns
+## Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns
 
 
 - Contrasting concentration‐discharge (C‐Q) relationships have been observed widely, yet a mechanistic framework that can interpret diverse patterns remains elusive. 
