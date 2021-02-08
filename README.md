@@ -16,5 +16,5 @@
 **Figures**:
 
 <p align="center">
-<img src="/figures/figure1.jpg" alt="Study site: Coal Creek Watershed" width="700" class="center">
+  <img src="/figures/figure1.jpg" alt="Study site: Coal Creek Watershed" width="600">
 </p>
