@@ -24,3 +24,7 @@
 <p align="center">
   <img src="/figures/figure2.jpg" alt="Watershed model: BioRT-Flux-PIHM" width="600">
 </p>
+
+<p align="center">
+  <img src="/figures/figure11.jpg" alt="C-Q pattern as a function of concentration contrast" width="600">
+</p>
