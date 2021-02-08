@@ -1,4 +1,4 @@
-# Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns
+## Distinct-Source-Water-Chemistry-Shapes-Contrasting-Concentration-Discharge-Patterns
 
 **Zhi, W.**, Li, L., Dong, W., Brown, W., Kaye, J., Steefel, C., & Williams, K. H. (2019). Distinct source water chemistry shapes contrasting concentration‐discharge patterns. *Water Resources Research*, 55(5), 4233-4251. [doi: 10.1029/2018WR024257](https://doi.org/10.1029/2018WR024257)
 
