@@ -39,12 +39,12 @@ Flushing patterns (b > 0.1) cluster toward the upper left with high soil water c
 Pennsylvania and Plynlimon in Wales, UK. In general, we see that data points follow the curve defined by the equation, although the range of b values may vary for different catchments and solutes.
 
 <p align="center">
-  <img src="/figures/figure11.jpg" alt="C-Q pattern as a function of concentration contrast" width="600">
+  <img src="/figures/figure11.jpg" alt="C-Q pattern as a function of concentration contrast" width="400">
 </p>
 
 ### A conceptual model about mechanisms leading to different C‐Q patterns
 A diagram illustrates the interplay between subsurface biogeochemical heterogeneity of the solute sources and temporal variability of predominant flow in shaping the C‐Q patterns. Specifically, the hillslope view shows the predominance of groundwater under dry conditions and soil water under wet (snowmelt) conditions in stream water. Solutes that are enriched in shallow soil (red triangle in top left) result in high Cratio that lead to a flushing pattern; solutes that are abundant in deeper groundwater (blue triangle in top left) are diluted by shallow soil water under high flow conditions. Generally, biogenic species are abundant in shallow soils as they reflect the signature of life. Sources of geogenic solutes, mostly unweathered or less weathered rock, are often ample at depth.
 
 <p align="center">
-  <img src="/figures/figure12.jpg" alt="A schematic diagram about different C-Q mechanisms" width="600">
+  <img src="/figures/figure12.jpg" alt="A schematic diagram about different C-Q mechanisms" width="500">
 </p>
